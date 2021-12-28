@@ -1,4 +1,4 @@
-## Salvē/Greetings. Welcome to Lipschitzq(`@lipschitzq`)'s/my GitHub profile. 
+## Salvē/Greetings. This is Lipschitzq(`@lipschitzq`). 
 <!--
 **lipschitzq/lipschitzq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
