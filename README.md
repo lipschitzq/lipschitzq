@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎮 Hobby: ACGN (Hatsune miku yyds), Music, History&Geography, Soccer/Association Football, Food(?, ~~Touching fish, sleeping~~.
+- 🎮 Hobby: ACGN (Hatsune miku yyds), Music, History&Geography, Soccer/Association Football, Food(?, ~~Touching fish, napping~~.
 - 📘 Research apprentice. Main Academic Interests: Math (applied), Physics (theoretical), Electrical Engineering and Computer Science (AI-related, theory); Linguistics, Economics and Finance.
 - 🔌 Follower of the Adepts Mechanicus. Making fun hardware and software to turn books and teas into real and cool stuff (some of them may appear here once complete). Focus is solely based on personal liking. 
 - 🖥️ Tech stack: System administration (Windows, Linux) and Web development; Android (app and OS) development; Perferred languages: C, C++, Java, Python (with focus on scientific computing and machine learning), Intel x86 assembly; MATLAB and Wolfram Mathematica. 
