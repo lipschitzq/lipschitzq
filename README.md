@@ -1,4 +1,4 @@
-# Salvē/Greetings. Welcome to Lipschitzq(`@lipschitzq`)'s/my GitHub profile. 
+## Salvē/Greetings. Welcome to Lipschitzq(`@lipschitzq`)'s/my GitHub profile. 
 <!--
 **lipschitzq/lipschitzq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 では、よろしくな。
 **Valē~** (x
 
-# Some Repositories/一些倉庫
+## Some Repositories/一些倉庫
 Will be updated soon. （總之這裏就先進行一個魚的摸，等到攢了一些東西了再來補上（逃
