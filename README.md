@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎮 Hobby: ACGN (Hatsune miku yyds), Music, History&Geography, Soccer/Association Football, Food(?, ~~Touching fish, napping~~.
+- 🎮 Hobby: ACGN (Hatsune Miku yyds!), Music, History&Geography, Soccer/Association Football, Food(?, ~~Touching fish, napping~~.
 - 📘 Research apprentice. Main Academic Interests: Math (applied), Physics (theoretical), Electrical Engineering and Computer Science (AI-related, theory); Linguistics, Economics and Finance.
 - 🔌 Follower of the Adepts Mechanicus. Making fun hardware and software to turn books and teas into real and cool stuff (some of them may appear here once complete). Focus is solely based on personal liking. 
 - 🖥️ Tech stack: System administration (Windows, Linux) and Web development; Android (app and OS) development; Perferred languages: C, C++, Java, Python (with focus on scientific computing and machine learning), Intel x86 assembly; MATLAB and Wolfram Mathematica. 
-- 📖 BS Math (Major) and Physics (Minor) Undergrad in Chinae Universitas de Hong Kong. 
+- 📖 BS Math (Major) and Physics (Minor) student in Chinae Universitas de Hong Kong. 
 - 📫 To reach me: will add email address to here... perhaps. ~~(or maybe not~~
 - [💬](https://github.com/lipschitzq/lipschitzq/issues) To ask me **anything**, be it about the library or the workbench. (answer not guaranteed.
 - 🌸 *Ars lunga. Vita brevis.*
