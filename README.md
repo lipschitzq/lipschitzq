@@ -30,12 +30,10 @@ Enchanté.
 
 
 
-> Our good old GitHub is slowly dying off since the company's integration into M$; until its last days arrive, I would be staying here. This is an account specifically created for my usage during this final stay. My old account has been deleted.
+> Our good old GitHub is slowly dying off since the company's integration into M$; until its last days arrive, I would be staying here. This is an account specifically created for my usage during this final stay. My previous account has already been deleted.
 
 
 では、よろしくな。
-
-
 **Valē~** (x
 
 
