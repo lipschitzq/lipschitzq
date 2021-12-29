@@ -1,4 +1,4 @@
-## Salvē/Greetings. This is Lipschitzq(`@lipschitzq`). 
+## Salvē/Greetings. This is LipschitzQ(`@lipschitzq`). 
 <!--
 **lipschitzq/lipschitzq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔌 Follower of the Adepts Mechanicus. Making fun hardware and software to turn books and teas into real and cool stuff (some of them may appear here once complete). Focus is solely based on personal liking. 
 - 🖥️ Tech stack: System administration (Windows, Linux) and Web development; Android (app and OS) development; Perferred languages: C, C++, Java, Python (with focus on scientific computing and machine learning), Intel x86 assembly; MATLAB and Wolfram Mathematica. 
 - 📖 BS Math (Major) and Physics (Minor) Undergrad in Chinae Universitas de Hong Kong. 
-- 📫 To reach me: opening an issue in this repo... perhaps. ~~(or maybe not~~
+- 📫 To reach me: will add email address to here... perhaps. ~~(or maybe not~~
 - [💬](https://github.com/lipschitzq/lipschitzq/issues) To ask me **anything**, be it about the library or the workbench. (answer not guaranteed.
 - 🌸 *Ars lunga. Vita brevis.*
 
