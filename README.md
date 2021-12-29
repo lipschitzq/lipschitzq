@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 Enchanté.
+
 
 
 - 🎮 Hobby: ACGN (Hatsune Miku yyds!), Music, History&Geography, Soccer/Association Football, Food(?, ~~Touching fish, napping~~.
@@ -26,8 +29,15 @@ Enchanté.
 - 🌸 *Ars lunga. Vita brevis.*
 
 
+
+> Our good old GitHub is slowly dying off since the company's integration into M$; until its last days arrive, I would be staying here. This is an account specifically created for my usage during this final stay. My old account has been deleted.
+
+
 では、よろしくな。
+
+
 **Valē~** (x
+
 
 
 ## Some Repositories/一些倉庫
