@@ -20,7 +20,7 @@ Enchanté. 你好w
 
 
 - 🎮 Hobby: ACGN (Hatsune Miku yyds!), Music, History&Geography, Soccer/Association Football, Food(?, ~~Touching fish, napping~~.
-- 📘 Research apprentice. Main Academic Interests: Math & Physics (\Experimentation), Electrical Engineering & Computer Science (Artificial Intelligence, Quantum Computation, Microelectronic devices and systems); Linguistics (especially Computational Linguistics), Mathematical Economics and Finance.
+- 📘 Research apprentice. Main Academic Interests: Math & Physics (except the experimentation), Electrical Engineering & Computer Science (Artificial Intelligence, Quantum Computation, Microelectronic devices and systems); Linguistics (especially Computational Linguistics), Mathematical Economics and Finance.
 - 🔌 Making fun hardware & software to turn textbooks and teas into powerful stuff (some of them may appear here once complete). 
 - 🖥️ Tech stack: System administration (Windows, Linux) and Web development; Android (app and OS level) development; Perferred languages: C, C++, Java, Python (with focus on scientific computing and machine learning), Intel x86 assembly; MATLAB and Wolfram Mathematica. 
 - 📖 BS Math (Major) and Physics (Minor) student in Chinae Universitas de Hong Kong. 
